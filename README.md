@@ -2,8 +2,6 @@
 
 An exploratory notebook investigating internal representations, causal activation patching, attention-head importance and functional head ablation in `EleutherAI/pythia-410m`.
 
-> **Archive status:** This repository documents the existing notebook and its saved outputs **as-is**. No experiments were rerun, code refactored, or results corrected for this release. Some experiments are exploratory, use different evaluation settings, and require validation before scientific claims can be made.
-
 ## Research scope
 
 - Model architecture and parameter distribution
